@@ -3,7 +3,7 @@
 
 To know more about me, You are most welcome to visit [my portfolio website](https://portfolio-ashutosh.herokuapp.com/)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[facebook].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 - 🔭 I’m currently working on MYSELF
 - 🌱 I’m currently learning React
