@@ -13,3 +13,4 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also love to fork food.
 
+                                             *Let's connect and chat! Open to anything under the sun.*
