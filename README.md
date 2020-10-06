@@ -1,6 +1,7 @@
 ### Hi I am Ashutosh Yadav aka ashu 👋
-<p>My name’s Ashutosh Yadav and pursuing Computer Science in Indian Institute of Information Technology, Lcknow. I am tech freak who loves to explore various new, cool stuff. Coding and Web Development are two such fields in which I am most interested in.</p> 
+<p>My name is Ashutosh Yadav and pursuing Computer Science in Indian Institute of Information Technology, Lucknow. I am a tech freak who love to explore various new, cool stuff. Coding and Web Development are two such fields in which I am most interested in.</p> 
 
+To know more about me, You are most welcome to visit my portfolio website [link](https://portfolio-ashutosh.herokuapp.com/)
 
 - 🔭 I’m currently working on MYSELF
 - 🌱 I’m currently learning React
