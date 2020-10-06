@@ -12,5 +12,7 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 - 📫 How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also love to fork food.
-
-                                             *Let's connect and chat! Open to anything under the sun.*
+  
+  
+  <center><p><i>Let's connect and chat! Open to anything under the sun./i></P></center>
+                                          
