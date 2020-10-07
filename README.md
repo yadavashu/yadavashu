@@ -22,5 +22,12 @@ To know more about me, You are most welcome to visit [my portfolio website](http
   <hr></hr>
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
    <p align="center"><a href="#">
-    <img src="https://raw.githubusercontent.com/yadavashu/yadavashu/6f6780c0aae24c4bdbc987b2e3db732455b25660/instagram.svg" alt="twitter" style="max-width:100%;">
-  </a></p>                                       
+    <img src="./social/facebook.svg" alt="twitter" style="max-width:100%;">
+  </a>
+  <a href="#">
+    <img src="./social/linkedin.svg" alt="twitter" style="max-width:100%;">
+  </a>
+  <a href="#">
+    <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;">
+  </a>
+  </p>                                       
