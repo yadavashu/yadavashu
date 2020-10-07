@@ -3,7 +3,7 @@
 
 To know more about me, You are most welcome to visit [my portfolio website](https://portfolio-ashutosh.herokuapp.com/)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
 
 - 🔭 I’m currently working on MYSELF
 - 🌱 I’m currently learning React
@@ -13,6 +13,6 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also love to fork food.
   
-  
-  <center><p><i>Let's connect and chat! Open to anything under the sun./i></P></center>
+    <img src="/raghavk16/raghavk16/blob/master/screen.gif?raw=true" alt="screen.gif">
+  <p align="center"><i>Let's connect and chat! Open to anything under the sun.</i></p>
                                           
