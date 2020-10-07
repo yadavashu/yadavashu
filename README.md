@@ -21,13 +21,13 @@ To know more about me, You are most welcome to visit [my portfolio website](http
   
   <hr></hr>
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
-   <p align="center"><a href="#">
+   <p align="center"><a href="https://www.facebook.com/profile.php?id=100025977280583">
     <img src="./social/facebook.svg" alt="twitter" style="max-width:100%;" width=25>
   </a>&nbsp;
-  <a href="#">
+  <a href="https://www.linkedin.com/feed/">
     <img src="./social/linkedin.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>&nbsp;
-  <a href="#">
+  <a href="https://www.instagram.com/yadavashu4488/?hl=en">
     <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>
   </p>                                       
