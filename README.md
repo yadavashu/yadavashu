@@ -1,11 +1,9 @@
-### Hi I am Ashutosh Yadav aka ashu 👋
-
  <p align="center"><img src="https://github.com/yadavashu/yadavashu/blob/main/octo.gif?raw=true" width=200 height=200></p>
  <p align="center"><img src="https://media.giphy.com/media/RIBkAh90wcXuiW1Rf5/giphy.gif" width=200 height=200></p>
  
 <p>My name is Ashutosh Yadav and pursuing Computer Science in Indian Institute of Information Technology, Lucknow. I am a tech freak who love to explore various new, cool stuff. Coding and Web Development are two such fields in which I am most interested in.</p> 
 
-To know more about me, You are most welcome to visit [my portfolio website](https://portfolio-ashutosh.herokuapp.com/)
+To know more about me, You are most welcome to visit [my portfolio website](https://portfolio-ashutosh.herokuapp.com/).
 
 
 
