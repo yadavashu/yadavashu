@@ -4,7 +4,7 @@
 <p>My name is <b><i>Ashutosh Yadav</i></b> and pursuing Computer Science in Indian Institute of Information Technology, Lucknow. I am a tech freak who love to explore various new, cool stuff.<b> Coding and Web Development</b> are two such fields in which I am most interested in.</p> 
 
 To know more about me, You are most welcome to visit [my portfolio website](https://portfolio-ashutosh.herokuapp.com/).
-
+<hr></hr>
 
 
 - <p><img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width=25 height=25> I’m currently learning react.</p>
