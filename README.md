@@ -17,4 +17,6 @@ To know more about me, You are most welcome to visit [my portfolio website](http
   
   <hr></hr>
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
-                                          
+   <p align="center"><a href="#">
+    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width:100%;">
+  </a></p>                                       
