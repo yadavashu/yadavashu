@@ -1,5 +1,5 @@
  <p align="center"><img src="https://github.com/yadavashu/yadavashu/blob/main/octo.gif?raw=true" width=150 height=150></p>
- <p align="center"><img src="https://media.giphy.com/media/RIBkAh90wcXuiW1Rf5/giphy.gif" width=200 height=200></p>
+ <p align="center"><img src="https://media.giphy.com/media/aaK7shchTNCpqFOhah/giphy.gif" width=200 height=200></p>
  
 <p font-family="algerian">My name is <b><i>Ashutosh Yadav</i></b> and pursuing Computer Science in Indian Institute of Information Technology, Lucknow. I am a tech freak who love to explore various new, cool stuff.<b> Coding and Web Development</b> are two such fields in which I am most interested in.</p> 
 
