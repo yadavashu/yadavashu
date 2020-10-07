@@ -32,7 +32,8 @@ To know more about me, You are most welcome to visit [*my portfolio website*](ht
   <a href="https://www.instagram.com/yadavashu4488/?hl=en">
     <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>
-  </p>       
+  </p>   
+   <p align="center" ><b>I would be glad if you <img src="https://media.giphy.com/media/7JsAxTNJTkMJfak7KD/giphy.gif" width=50 height=50> my repositories.</b></p>
  
   
   
