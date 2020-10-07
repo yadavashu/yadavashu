@@ -33,7 +33,6 @@ To know more about me, You are most welcome to visit [*my portfolio website*](ht
     <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>
   </p>       
-  <img src="https://github-readme-stats-ivory-mu.vercel.app/api/pin/?username=yadavashu&repo=github-readme-stats"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavashu&layout=compact"></img>
+ 
   
   
