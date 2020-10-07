@@ -7,8 +7,10 @@ To know more about me, You are most welcome to visit [*my portfolio website*](ht
 <hr></hr>
 
 
+  
 - <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width=25 height=25> **I’m currently learning react.**
 - <img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=30 height=30 > **my current goal is to crack GSOC.**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yadavashu&show_icons=true&theme=tokyonight"></img>
 - <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width=30 height=30> **Looking forward to work on a react project.**
 - <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" width=30 height=30> **Ask me about anything, more than happy to help.**
 - <img src="https://media.giphy.com/media/QXUKY8Xlg7xy9Nhnax/giphy.gif" width=20 height=30> **How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)**
@@ -32,5 +34,6 @@ To know more about me, You are most welcome to visit [*my portfolio website*](ht
   </a>
   </p>       
   <img src="https://github-readme-stats-ivory-mu.vercel.app/api/pin/?username=yadavashu&repo=github-readme-stats"></img>
-  https:///
-  [ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavashu&layout=compact"></img>
+  
+  
