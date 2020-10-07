@@ -14,6 +14,10 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 - <img src="https://media.giphy.com/media/QXUKY8Xlg7xy9Nhnax/giphy.gif" width=20 height=30> **How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)**
 - <img src="https://media.giphy.com/media/kg6JAJQojS7DbbcZJi/giphy.gif" width=30 height=30> **Pronouns: he/him**
 - <img src="https://media.giphy.com/media/MAzuwWS4cNvFCHvzvT/giphy.gif" width=30> **I also love to fork <img src="https://media.giphy.com/media/j38FnpoKKsuJlhSFSr/giphy.gif" width=100 height=20>.**
+- ** Stuff I work with:-**
+<p>
+<img src="./tech/html.svg" alt="twitter" style="max-width:100%;"><img src="./tech/css3.svg" alt="twitter" style="max-width:100%;"><img src="./tech/nodejs.svg" alt="twitter" style="max-width:100%;"><img src="./tech/react.svg" alt="twitter" style="max-width:100%;"><img src="./tech/bootstrap.svg" alt="twitter" style="max-width:100%;"><img src="./tech/visualstudio.svg" alt="twitter" style="max-width:100%;">
+</p>
   
   <hr></hr>
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
