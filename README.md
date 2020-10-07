@@ -8,7 +8,7 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 
 
 - 🔭 I’m currently learning react
-- <p><img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=40 height=40>My current goal is to crack GSOC.</p>
+- <p><span><img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=30 height=30>My current goal is to crack GSOC.</span></p>
 - 👯 I’m looking to collaborate on any react based project
 - 💬 Ask me about anything, more than happy to help.
 - 📫 How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)
