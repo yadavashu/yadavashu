@@ -30,4 +30,7 @@ To know more about me, You are most welcome to visit [*my portfolio website*](ht
   <a href="https://www.instagram.com/yadavashu4488/?hl=en">
     <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>
-  </p>                                       
+  </p>       
+  <img src="https://github-readme-stats-ivory-mu.vercel.app/api/pin/?username=yadavashu&repo=github-readme-stats"></img>
+  https:///
+  [ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
