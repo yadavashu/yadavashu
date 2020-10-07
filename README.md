@@ -22,12 +22,12 @@ To know more about me, You are most welcome to visit [my portfolio website](http
   <hr></hr>
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
    <p align="center"><a href="#">
-    <img src="./social/facebook.svg" alt="twitter" style="max-width:100%;">
-  </a>
+    <img src="./social/facebook.svg" alt="twitter" style="max-width:100%;" width=25>
+  </a>&nbsp;
   <a href="#">
-    <img src="./social/linkedin.svg" alt="twitter" style="max-width:100%;">
-  </a>
+    <img src="./social/linkedin.svg" alt="twitter" style="max-width:100%;"  width=25>
+  </a>&nbsp;
   <a href="#">
-    <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;">
+    <img src="./social/instagram.svg" alt="twitter" style="max-width:100%;"  width=25>
   </a>
   </p>                                       
