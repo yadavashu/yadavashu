@@ -7,14 +7,14 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 
 
 
-- 🔭 I’m currently working on MYSELF
-- 🌱 I’m currently learning React
+- 🔭 I’m currently learning react
+- <p><img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=20 height=20>hii</img></p>
 - 👯 I’m looking to collaborate on any react based project
 - 💬 Ask me about anything, more than happy to help.
 - 📫 How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also love to fork food.
-  
+  https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif
   
   <p align="center" ><i>Let's connect and chat! Open to anything under the sun.</i></p>
                                           
