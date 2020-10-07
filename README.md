@@ -7,7 +7,7 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 <hr></hr>
 
 
-- <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width=25 height=25> ####**I’m currently learning react.**
+- <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width=25 height=25> **I’m currently learning react.**
 - <img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=30 height=30 > **my current goal is to crack GSOC.**
 - <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width=30 height=30> **Looking forward to work on a react project.**
 - <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" width=30 height=30> **Ask me about anything, more than happy to help.**
