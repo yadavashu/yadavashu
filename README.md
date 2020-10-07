@@ -11,7 +11,7 @@ To know more about me, You are most welcome to visit [my portfolio website](http
 - <p><span><img src="https://media.giphy.com/media/tQYCAlhT3RXbvXqI4d/giphy.gif" width=30 height=30 >My current goal is to crack GSOC.</span></p>
 - <p><img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width=30 height=30>Looking forward to work on a react project.</p>
 - <p><img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" width=30 height=30>Ask me about anything, more than happy to help.</p> 
-- <p><img src="https://media.giphy.com/media/QXUKY8Xlg7xy9Nhnax/giphy.gif" width=20 height=30>How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)</p>
+- <img src="https://media.giphy.com/media/QXUKY8Xlg7xy9Nhnax/giphy.gif" width=20 height=30>How to reach me: [lcs2019007@iiitl.ac.in](lcs2019007@iiitl.ac.in)
 - <p><img src="https://media.giphy.com/media/kg6JAJQojS7DbbcZJi/giphy.gif" width=30 height=30>Pronouns: he/him</p> 
 - <p><img src="https://media.giphy.com/media/MAzuwWS4cNvFCHvzvT/giphy.gif" width=30> I also love to fork <img src="https://media.giphy.com/media/j38FnpoKKsuJlhSFSr/giphy.gif" width=100 height=20>.</p>
   
